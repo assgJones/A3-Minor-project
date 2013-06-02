@@ -1,0 +1,13 @@
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\bin\Debug\2013 IPT A3.exe
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\bin\Debug\2013 IPT A3.pdb
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\bin\Debug\2013 IPT A3.xml
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\IPTA3.Form1.resources
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\IPTA3.Form2.resources
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\IPTA3.Resources.resources
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\IPTA3.SplashScreen1.resources
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.exe
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.xml
+C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.pdb
