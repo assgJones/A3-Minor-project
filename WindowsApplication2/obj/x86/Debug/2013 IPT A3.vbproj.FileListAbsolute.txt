@@ -11,3 +11,6 @@ C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplica
 C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.exe
 C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.xml
 C:\Users\bjones\Documents\Visual Studio 2010\Projects\2013 IPT A3\WindowsApplication2\obj\x86\Debug\2013 IPT A3.pdb
+C:\Users\bjones\Programs\A3-Minor-project\WindowsApplication2\obj\x86\Debug\2013 IPT A3.exe
+C:\Users\bjones\Programs\A3-Minor-project\WindowsApplication2\obj\x86\Debug\2013 IPT A3.xml
+C:\Users\bjones\Programs\A3-Minor-project\WindowsApplication2\obj\x86\Debug\2013 IPT A3.pdb

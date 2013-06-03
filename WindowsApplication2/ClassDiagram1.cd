@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IPTA3.Form2">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAQIQAECAAAAAAAACEAgACABD/AAAgAAiBAgAQCAA=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPTA3.Speaker">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAIAUAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Speaker.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPTA3.Team">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAgBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Team.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Speaker" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
