@@ -12,3 +12,7 @@ The school is part of a group of schools which takes part in a debating round.  
   - Does not require an Internet connection 
   - Intuitive, user friendly interface 
   - The output will be need to be sent by email, print or  web page 
+
+## BRIEF
+The adjudicators of the Debating Board have put in a request for a program that is to be used in debating to generate a score sheet with feedback for teams and coaches to look at at a later date.
+
